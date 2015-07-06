@@ -1,14 +1,18 @@
 {
-    "name": "jordillonch/crud-generator",
-    "description": "This bundle generates a nice CRUD",
+    "name": "niwa/crud-generator",
+    "description": "This bundle generates a nice CRUD - NIWA Version",
     "keywords": ["crud", "generator"],
-    "homepage": "https://github.com/jordillonch/CrudGeneratorBundle",
+    "homepage": "https://github.com/niwa/CrudGeneratorBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
         {
             "name": "Jordi Llonch",
             "email": "llonch.jordi@gmail.com"
+        },
+        {
+            "name": "Software Developer Team",
+            "email": "niwasystems@gmail.com"
         }
     ],
     "require": {
